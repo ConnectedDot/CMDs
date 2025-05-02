@@ -2,6 +2,10 @@
 
 This guide covers commands for setting up React apps and related frameworks using various tools and package managers.
 
+
+The commands below create a React apps. By default, these commands generate a JavaScript-based project. To create a TypeScript-based project, you need to use the `--template react-ts` flag instead of just `--template react`.
+
+
 ---
 
 ## React (Standard React App)
@@ -10,11 +14,19 @@ This guide covers commands for setting up React apps and related frameworks usin
 - **bun**: `bun create react-app my-app`  
 
 ---
-
 ## React with Vite
-- **npm**: `npm create vite@latest my-app --template react`  
-- **yarn**: `yarn create vite my-app --template react`  
-- **bun**: `bun create vite my-app --template react`  
+
+
+
+- **JavaScript**:
+    - **npm**: `npm create vite@latest my-app --template react`
+    - **yarn**: `yarn create vite my-app --template react`
+    - **bun**: `bun create vite my-app --template react`
+
+- **TypeScript**:
+    - **npm**: `npm create vite@latest my-app --template react-ts`
+    - **yarn**: `yarn create vite my-app --template react-ts`
+    - **bun**: `bun create vite my-app --template react-ts`
 
 ---
 
