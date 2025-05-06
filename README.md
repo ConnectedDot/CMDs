@@ -122,8 +122,8 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use a
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: theophilus.samy@gmail.com
+- **IG**: [Mc-Samuel](https://instagram.com/theophilus_mcsam?igshid=NGExMmI2YTkyZg==)
 
 ---
 
