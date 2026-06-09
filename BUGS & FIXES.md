@@ -22,3 +22,20 @@ npm run build
 ``` *)
 
 In summary, there is no TypeScript flag to enable newer TypeScript versions with SPFx 1.13. The solution involves locking VS Code and the build process to TypeScript 3.9.
+
+
+Theop@Samuels MINGW64 /c/THEO/DEVELOPMENTS/LOTUS PROJECTS/MTNN/MTN-Workplan (production-fix3)
+$ npm ls typescript
+mtn-workpaper-v2@0.0.3 C:\THEO\DEVELOPMENTS\LOTUS PROJECTS\MTNN\MTN-Workplan
++-- @microsoft/rush-stack-compiler-3.9@0.4.47
+| +-- @microsoft/api-extractor@7.15.2
+| | `-- typescript@4.2.4 
+| `-- typescript@3.9.10 
+`-- spfx-fast-serve-helpers@1.13.7
+  `-- react-refresh-typescript@2.0.2
+    `-- typescript@4.2.4  extraneous
+
+npm ERR! extraneous: typescript@4.2.4 C:\THEO\DEVELOPMENTS\LOTUS PROJECTS\MTNN\MTN-Workplan\node_modules\react-refresh-typescript\node_modules\typescript
+
+Theop@Samuels MINGW64 /c/THEO/DEVELOPMENTS/LOTUS PROJECTS/MTNN/MTN-Workplan (production-fix3)
+$ 
