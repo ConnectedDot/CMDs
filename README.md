@@ -4,6 +4,10 @@
 
 This repository serves as a comprehensive collection of command-line instructions, scripts, and notes. It is designed to store and organize commands related to programming, IT operations, and general computer usage. The goal is to create a centralized reference for quick access to commonly used commands across various domains.
 
+It is organized by technology area so future blockers can be documented once and reused across projects.
+
+
+
 ---
 
 ## Repository Structure
@@ -92,6 +96,34 @@ kill -9 <PID>
 ```
 
 ---
+
+
+
+
+
+
+## Recommended Entry Format
+
+Each guide should include:
+
+```md
+# Title
+
+## Purpose
+What this guide solves.
+
+## Commands
+Copy-ready commands.
+
+## Common Errors
+Known failures and fixes.
+
+## Notes
+Warnings, platform-specific details, and lessons learned.
+```
+
+
+
 
 ## Best Practices
 
